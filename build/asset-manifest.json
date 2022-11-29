@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.787b3edc.css",
+    "main.js": "/static/js/main.c33317ff.js",
+    "static/media/undraw_resume_folder_re_e0bi.svg": "/static/media/undraw_resume_folder_re_e0bi.747b0dd9d4a36a4fe054ab84b590ebfb.svg",
+    "index.html": "/index.html",
+    "main.787b3edc.css.map": "/static/css/main.787b3edc.css.map",
+    "main.c33317ff.js.map": "/static/js/main.c33317ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.787b3edc.css",
+    "static/js/main.c33317ff.js"
+  ]
+}
